@@ -96,15 +96,14 @@ export interface SiteConfig {
  */
 export const siteConfig: SiteConfig = {
   name: "TheFire888",
-  title: "Astro Portfolio Template built with 🌼 DaisyUI",
+  title: "Bioinfo 🧬 & Dev",
   description:
-    "A modern, responsive, and customizable portfolio template built with Astro and DaisyUI. Perfect for developers, designers, and creatives to showcase their work and skills.",
-  avatar: "../assets/bloomfolio.png",
+    "Graduando em Ciências Moleculares na USP. Pesquisador em Bioinformática, entusiasta do VIM e desenvolvedor focado em Rust e Python.",
+  avatar: "../assets/avatar.png",
   location: "🇧🇷 Brazil",
-  email: "hello@example.com",
+  email: "luanric888@gmail.com",
   socialLinks: {
-    github: "https://github.com/lauroguedes",
-    linkedin: "https://linkedin.com/in/lauroguedes",
+    github: "https://github.com/TheFire888",
   },
   enableThemeSelector: true,
   extraLinks: {
@@ -133,7 +132,7 @@ export const siteConfig: SiteConfig = {
     ],
   },
   sections: {
-    about: true,
+    about: false,
     projects: false,
     blog: true,
     work: false,
