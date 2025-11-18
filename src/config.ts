@@ -99,7 +99,7 @@ export const siteConfig: SiteConfig = {
   title: "🧬 Bioinformata & Dev",
   description:
     "Graduando em Ciências Moleculares na USP. Pesquisador em Bioinformática, entusiasta do VIM e desenvolvedor focado em Rust e Python.",
-  avatar: "../assets/avatar.png",
+  avatar: "../assets/profilepic.jpg",
   location: "🇧🇷 Brazil",
   email: "luanric888@gmail.com",
   socialLinks: {
