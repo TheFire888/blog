@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-photo: "https://imgur.com/a/RH9CUEj"
+photo: "https://i.imgur.com/PQ9CD9r.png"
 ---
 
 Sou graduando em Ciências Moleculares na USP, entusiasta em Bioinformática. Meu foco está em aplicar computação no estudo da complexidade biológica, com pesquisa ativa no desenvolvimento de ferramentas para agrupamento hierárquico de plasmídeos.
