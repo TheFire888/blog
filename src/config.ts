@@ -95,8 +95,8 @@ export interface SiteConfig {
  * Update these values to customize your portfolio
  */
 export const siteConfig: SiteConfig = {
-  name: "TheFire888",
-  title: "🧬 Bioinfo & Dev",
+  name: "Luan",
+  title: "🧬 Bioinformata & Dev",
   description:
     "Graduando em Ciências Moleculares na USP. Pesquisador em Bioinformática, entusiasta do VIM e desenvolvedor focado em Rust e Python.",
   avatar: "../assets/avatar.png",
