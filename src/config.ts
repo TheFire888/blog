@@ -7,6 +7,7 @@
 
 import { BookOpen, FileText, Flower2, CodeXml } from "@lucide/astro";
 import { Code } from "astro:components";
+import profilePic from "./assets/profilepic.jpg";
 
 /**
  * Social media links configuration
@@ -99,7 +100,7 @@ export const siteConfig: SiteConfig = {
   title: "🧬 Bioinformata & Dev",
   description:
     "Graduando em Ciências Moleculares na USP. Pesquisador em Bioinformática, entusiasta do VIM e desenvolvedor focado em Rust e Python.",
-  avatar: "/assets/profilepic.jpg",
+  avatar: profilePic,
   location: "🇧🇷 Brazil",
   email: "luanric888@gmail.com",
   socialLinks: {
