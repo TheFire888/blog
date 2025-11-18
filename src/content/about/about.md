@@ -1,6 +1,10 @@
 ---
 title: "About Me"
-photo: "https://api.dicebear.com/9.x/adventurer-neutral/svg?seed=Destiny&scale=90&backgroundColor=763900,9e5622,ecad80,f2d3b1,c0aede,b6e3f4"
+photo: "assets/"
 ---
 
-I'm a full-stack developer with a passion for creating beautiful, functional, and user-friendly web applications. With experience in **modern frameworks and technologies**, I love turning ideas into reality through code. When I'm not coding, you can find me **exploring new technologies**, contributing to open source, or enjoying a good cup of coffee.
+Sou graduando em Ciências Moleculares na USP, entusiasta em Bioinformática. Meu foco está em aplicar computação no estudo da complexidade biológica, com pesquisa ativa no desenvolvimento de ferramentas para agrupamento hierárquico de plasmídeos e análise de metagenômica.
+
+Vivo no terminal e sou apaixonado pelo ecossistema Linux! Uso Arch Linux (btw). E o VIM é meu fiel companheiro: o **melhor** editor de texto, que me permite navegar pelo código na velocidade dos meus pensamentos.
+
+Programo principalmente em Python e Rust, buscando performance para grandes volumes de dados. Nas horas vagas, você me encontra montando estratégias no Magic: The Gathering.

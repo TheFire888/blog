@@ -105,11 +105,6 @@ export const siteConfig: SiteConfig = {
   socialLinks: {
     github: "https://github.com/lauroguedes",
     linkedin: "https://linkedin.com/in/lauroguedes",
-    twitter: "https://twitter.com/leowg",
-    bluesky: "https://bsky.app/profile/lauroguedes.bsky.social",
-    instagram: "https://instagram.com/lauroguedes.dev",
-    youTube: "https://youtube.com/leowgweb",
-    codetips: "https://codetips.cloud/u/lauroguedes",
   },
   enableThemeSelector: true,
   extraLinks: {
@@ -131,7 +126,7 @@ export const siteConfig: SiteConfig = {
         label: "Markdown Guide",
       },
       {
-        link: "https://github.com/lauroguedes/bloomfolio",
+        link: "https://github.com/TheFire888/blog",
         icon: CodeXml,
         label: "GitHub Repo",
       },
@@ -139,11 +134,11 @@ export const siteConfig: SiteConfig = {
   },
   sections: {
     about: true,
-    projects: true,
+    projects: false,
     blog: true,
-    work: true,
-    education: true,
-    hackathons: true,
+    work: false,
+    education: false,
+    hackathons: false,
     contact: true,
   },
 };
