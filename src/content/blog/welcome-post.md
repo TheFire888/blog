@@ -1,30 +1,21 @@
 ---
-title: "Welcome to My Blog"
-description: "An introduction to my blog where I'll share thoughts on web development, design, and technology."
+title: "Bem-vindo ao meu blog!"
+description: "Uma introdução ao meu espaço sobre Bioinformática, Linux e Rust."
 image: "./blog_post.jpg"
-publishDate: "2025-10-30"
-tags: ["Introduction", "Web Development"]
+publishDate: "2025-11-18"
+tags: ["Introdução", "Bioinformática", "Linux", "VIM"]
 ---
 
-# Welcome to My Blog!
+# Olá, mundo!
 
-Hello and welcome to my blog! I'm excited to share my journey, thoughts, and experiences in the world of web development and technology.
+Seja bem-vindo! Sou estudante de Ciências Moleculares na USP e criei este blog para documentar minha jornada na intersecção entre biologia e computação.
 
-## What to Expect
+## O que esperar
 
-In this blog, you can expect:
+Aqui vou compartilhar:
 
-- **Technical tutorials** on modern web development
-- **Project showcases** and case studies
-- **Thoughts on design** and user experience
-- **Industry trends** and insights
+- **Pesquisa:** Atualizações sobre minha Iniciação Científica em agrupamento hierárquico de plasmídeos e metagenômica.
+- **Linux & Workflow:** Dicas de customização do Arch Linux, Hyprland e truques avançados do VIM.
+- **Dev:** Meus experimentos e ferramentas desenvolvidas em Rust e Python.
 
-## About Me
-
-I'm a passionate developer who loves creating beautiful and functional web applications. With years of experience in the field, I've worked on a variety of projects ranging from small startups to large enterprise applications.
-
-## Let's Connect
-
-I'd love to hear from you! Feel free to reach out through any of my social media channels or send me an email.
-
-Thanks for stopping by!
+Sinta-se à vontade para explorar e entrar em contato!
