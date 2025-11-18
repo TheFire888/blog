@@ -101,7 +101,7 @@ export const siteConfig: SiteConfig = {
   description:
     "Graduando em Ciências Moleculares na USP. Pesquisador em Bioinformática, entusiasta do VIM e desenvolvedor focado em Rust e Python.",
   avatar: profilePic,
-  location: "🇧🇷 Brazil",
+  location: "🇧🇷 Brasil",
   email: "luanric888@gmail.com",
   socialLinks: {
     github: "https://github.com/TheFire888",
