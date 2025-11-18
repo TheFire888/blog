@@ -95,7 +95,7 @@ export interface SiteConfig {
  * Update these values to customize your portfolio
  */
 export const siteConfig: SiteConfig = {
-  name: "🌻 Bloomfolio",
+  name: "TheFire888",
   title: "Astro Portfolio Template built with 🌼 DaisyUI",
   description:
     "A modern, responsive, and customizable portfolio template built with Astro and DaisyUI. Perfect for developers, designers, and creatives to showcase their work and skills.",
