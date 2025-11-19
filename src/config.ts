@@ -5,7 +5,7 @@
  * Update these values to personalize your portfolio site.
  */
 
-import { BookOpen, FileText, Flower2, CodeXml } from "@lucide/astro";
+import { CodeXml, Send } from "@lucide/astro";
 import { Code } from "astro:components";
 import profilePic from "./assets/profilepic.jpg";
 
@@ -76,7 +76,7 @@ export interface SiteConfig {
   /** Site description for SEO and hero section */
   description: string;
   /** Path to avatar/logo image */
-  avatar: string;
+  avatar: ImageMetadata;
   /** Location/City */
   location: string;
   /** Contact email */
@@ -111,9 +111,9 @@ export const siteConfig: SiteConfig = {
     enable: true,
     links: [
       {
-        link: "/blog/guides/markdown-guide",
-        icon: FileText,
-        label: "Guia de Markdown",
+        link: "mailto:luanric888@gmail.com?subject=Sobre%20seu%20blog",
+        icon: Send,
+        label: "Fale comigo",
       },
       {
         link: "https://github.com/TheFire888/blog",
