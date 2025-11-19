@@ -1,21 +1,34 @@
 ---
-title: "Bem-vindo ao meu blog!"
-description: "Uma introdução ao meu espaço sobre Bioinformática, Linux e Rust."
+title: "Sobre esse blog"
+description: "Como eu organizei esse lugar, qual meu objetivo com tudo isso e outras ideias soltas."
 image: "./blog_post.jpg"
 publishDate: "2025-11-18"
-tags: ["Introdução", "Bioinformática", "Linux", "VIM"]
+tags: ["Introdução", "Sobre mim"]
 ---
 
-# Olá, mundo!
+Seja bem-vindo! Eu sou o Luan e fico muito feliz em saber que você decidiu ler esse artigo 😄. 
 
-Seja bem-vindo! Sou estudante de Ciências Moleculares na USP e criei este blog para documentar minha jornada na intersecção entre biologia e computação.
+Eu tomei a decisão (impulsiva) de escrever blog em algum momento entre uma noite mal dormida e o momento em que escrevo, o que engloba um período de tempo indefinido (mas certamente grande!). Eu já tinha essa vontade de escrever e compartilhar ideias, mas não sabia como eu gostaria que isso ficasse organizado. Então decidi me aventurar e fazer o *deploy* desse site/portfolio hoje cedo e acho que fiquei satisfeito com o resultado.
 
 ## O que esperar
 
-Aqui vou compartilhar:
+Esse blog será, sobre todos os aspectos, um blog pessoal, de forma que eu pretendo escrever sobre tópicos que me surgirem e que me despertarem a vontade de desenvolver. Assim, não espere muito.
 
-- **Pesquisa:** Atualizações sobre minha Iniciação Científica em agrupamento hierárquico de plasmídeos e metagenômica.
-- **Linux & Workflow:** Dicas de customização do Arch Linux, Hyprland e truques avançados do VIM.
-- **Dev:** Meus experimentos e ferramentas desenvolvidas em Rust e Python.
+Bem, se esse blog tem o intuito de descrever assuntos pelos quais me interesso, posso adiantar o seu trabalho e listar os assuntos que você pode esperar ver por aqui:
 
-Sinta-se à vontade para explorar e entrar em contato!
+- **Pesquisa:** Ideias e noções sobre minha pesquisa e vida acadêmica.
+- **Linux:** Dicas e tutoriais do Arch Linux, Hyprland e alguns truques do VIM.
+- **Código:** Meus experimentos e ferramentas desenvolvidas em Rust e Python.
+- **Guias:** Meus guias pessoais de sobrevivência no mundo moderno.
+
+Em geral, vou tentar manter a escrita direcionada a um público leigo durante os primeiros posts e, conforme for acumulando material introdutório, pretendo escrever artigos mais complexos. Eu irei, obviamente, violar essa regra quando achar interessante ou necessário, mas não pretendo cuspir informações soltas. Uma das vantagens de escrever para alguém é ser forçado a revisar a base teórica daquele assunto e esse é um dos motivos pelos quais estou aqui.
+
+## Conclusão
+
+Por enquanto é isso, não vou enrolar muito nessa introdução. O blog vai ser sobre temas que me empolgam como pesquisa, linux e programação, focado em uma leitura acessível a quase todos os públicos. 
+
+Pretendo fazer o primeiro post ainda nessa semana, assim que for possível, onde irei apresentar meu projeto de pesquisa e os detalhes que acho mais interessantes. 
+
+---
+
+Sinta-se à vontade para entrar em contato e até a próxima 😉!

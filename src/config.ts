@@ -111,19 +111,9 @@ export const siteConfig: SiteConfig = {
     enable: true,
     links: [
       {
-        link: "/blog/guides/bloomfolio-complete-guide",
-        icon: Flower2,
-        label: "Bloomfolio Guide",
-      },
-      {
-        link: "/blog/guides/content-collections-guide",
-        icon: BookOpen,
-        label: "Content Guide",
-      },
-      {
         link: "/blog/guides/markdown-guide",
         icon: FileText,
-        label: "Markdown Guide",
+        label: "Guia de Markdown",
       },
       {
         link: "https://github.com/TheFire888/blog",
